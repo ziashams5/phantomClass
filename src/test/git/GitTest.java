@@ -8,4 +8,7 @@ public class GitTest {
 		
 	}
 
+	public void testing2() {
+		System.out.println("this is different projct");
+	}
 }
