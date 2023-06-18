@@ -7,6 +7,7 @@ public class GitPracticeSdetB {
 
 		System.out.println("git practice sdet B");
 		System.out.println("git practice sdet C");
+		System.out.println("git practice sdet d review");
 
 	}
 
